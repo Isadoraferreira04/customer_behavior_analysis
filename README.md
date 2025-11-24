@@ -1,7 +1,5 @@
 # customer_behavior_analysis
 Projeto de Análise de dados para mostrar tendências dos consumidores de uma empresa fictícia usando Python, SQL e Power BI.
-Aqui está um **README.md profissional, direto, organizado e fácil de entender para recrutadores**, cobrindo todas as etapas do seu projeto: Python, EDA, limpeza, SQL/PostgreSQL, Power BI, documentação e apresentação.
-
 ---
 
 # **Customer Shopping Behavior – Data Analysis Project**
